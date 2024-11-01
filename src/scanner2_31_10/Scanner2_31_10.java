@@ -35,9 +35,6 @@ public class Scanner2_31_10 {
         String strDate = formatter.format(date);
         System.out.println(strDate);
                
-        
-        
-        
         //bai 2
         System.out.println("Enter a word random : ");
         String word = scanner.next();
